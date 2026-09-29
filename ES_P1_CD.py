@@ -1,5 +1,11 @@
-n=2
-print(n)
-print(n+3, n+3)
-print(n+6, n+6, n+6)
-print(n+9, n+9, n+9, n+9)
+a=int(input())
+print(a)
+print(a, a)
+print(a, a, a)
+print(a, a, a, a)
+
+b=4
+print(b, b, b, b)
+print('', b, b, b)
+print('  ', b, b)
+print('    ', +b)
